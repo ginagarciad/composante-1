@@ -46,3 +46,7 @@ a:active {
   background: red;
   color: white;
 }
+
+img {
+    width: 1200px;
+}
